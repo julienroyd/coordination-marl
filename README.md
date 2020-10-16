@@ -1,6 +1,6 @@
 # Promoting Coordination Through Policy Regularization in Multi-Agent Deep Reinforcement Learning
 
-## To cite:
+## To cite
 ```
 ADD bibtex entry
 ```
