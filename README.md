@@ -1,31 +1,14 @@
-# Supplementary Materials
+# Promoting Coordination Through Policy Regularization in Multi-Agent Deep Reinforcement Learning
 
-#### Submission title: Promoting Coordination Through Policy Regularization in Multi-Agent Deep Reinforcement Learning
+## To cite:
+```
+ADD bibtex entry
+```
 
 ## Online vsualisations
 
 Visualisations of rollouts using MADDPG + CoachReg are available online:
 [https://sites.google.com/view/marl-coordination/](https://sites.google.com/view/marl-coordination/)
-
-
-## Supplementary Materials - Content
-
-The provided supplementary materials contain:
-* `PromotingCoordination_NeurIPS2020_mainPaper_&_appendix.pdf` : the Main paper + Appendix
-* `code/` : code for our experiments including continuous control on the multiagent-particle-environment, discrete control on the google-research football environment and the tabular Q-learning toy-experiment presented in Section 3 
-* `external_dependencies/` : our fork of the multiagent-particle-environment containing our contributed environments
-* `trained_models/` : all of our trained models used to generate our results
-
-**Note:** The CMT platform will not allow us to upload the supplementary materials containing trained_models because of the file size limit. 
-Please find an identical folder to this one but which does contain the trained_models at this Google Drive address:
-[https://drive.google.com/drive/folders/17sIM1G1tDbSh4dB6XWSSxSmFN4PYj6Hi?usp=sharing](https://drive.google.com/drive/folders/17sIM1G1tDbSh4dB6XWSSxSmFN4PYj6Hi?usp=sharing)
-
-The code for each algorithm and regularization method is in its dedicated folder (either in `code/discrete_control` or `code/continuous_control`) along with all the required script to
-train and vizualize the results. 
-* `baselines` : DDPG, MADDPG
-* `shared` : MADDPG + Sharing
-* `team` : MADDPG + TeamReg
-* `coach` : MADDPG + CoachReg
  
 ## Requirements
 
