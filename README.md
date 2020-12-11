@@ -1,10 +1,16 @@
 # Promoting Coordination Through Policy Regularization in Multi-Agent Deep Reinforcement Learning
 
-[Link to the paper]()
+[Link to the paper](https://papers.nips.cc/paper/2020/hash/b628386c9b92481fab68fbf284bd6a64-Abstract.html)
 
 ## To cite
 ```
-ADD bibtex entry
+@article{roy2020promoting,
+  title={Promoting Coordination through Policy Regularization in Multi-Agent Deep Reinforcement Learning},
+  author={Roy, Julien and Barde, Paul and Harvey, F{\'e}lix and Nowrouzezahrai, Derek and Pal, Chris},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
 ```
 
 ## Online vsualisations
